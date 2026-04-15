@@ -6,7 +6,7 @@ A project exploring how different Large Language Models (LLMs) perform on reason
 
 ## 🚀 Open in Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bandamvarunshesh/Reasoning-with-LLMs-LLM-Leaderboards/blob/main/your_notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bandamvarunshesh/reasoning_llms_huggingface_leaderboards.ipynb/blob/main/your_notebook.ipynb)
 
 ---
 
